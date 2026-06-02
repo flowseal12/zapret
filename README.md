@@ -1,6 +1,4 @@
-```markdown
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/Flowseal/">Flowseal</a> /zapret-discord-youtube <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
 NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  
 </div>
 
