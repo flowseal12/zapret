@@ -161,23 +161,3 @@ sc delete название_из_первого_шага
 
 Файлы `*-user.txt` автоматически создадутся при первом запуске.
 
-⭐ **Поддержка проекта**
-
-Вы можете поддержать проект, поставив :star: этому репозиторию (сверху справа этой страницы)
-
-<a href="https://star-history.com/#Flowseal/zapret-discord-youtube&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
- </picture>
-</a>
-
-⚖️ **Лицензирование**
-
-Проект распространяется на условиях лицензии MIT
-
-🩷 **Благодарность участникам проекта**
-
-![Contributors](https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube)
-```
