@@ -1,5 +1,4 @@
 <div align="center">
-NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  
 </div>
 
 > [!CAUTION]
